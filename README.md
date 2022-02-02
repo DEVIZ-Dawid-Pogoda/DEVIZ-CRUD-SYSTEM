@@ -122,7 +122,7 @@ Wszystkich możliwości frameworka CI4 -> https://codeigniter.com/user_guide/int
 <br>
 - footerPage.php (stopka strony)
 <br>
-- login.php (widok logowania)
+- logowanie.php (widok logowania)
 <br>
 - reset.php (widok resetu hasła)
 <br>
